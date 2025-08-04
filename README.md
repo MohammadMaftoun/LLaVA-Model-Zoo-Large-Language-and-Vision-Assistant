@@ -1,6 +1,6 @@
 This repository provides the LLaVA (Large Language-and-Vision Assistant) model packaged for use with Ollama, enabling advanced multimodal AI capabilities directly on your machine. With LLaVA-on-Ollama, you can run powerful visual question answering, image captioning, scene interpretation, and text reasoning without depending on any cloud service, keeping your data private and secure.
 
-Ollama acts as the local runtime, making it easy to download, manage, and run models through a simple CLI or API. This setup allows you to handle both image and text inputs, integrating vision and language understanding in one model. Whether you’re analyzing documents, interpreting photos, or building custom multimodal applications, LLaVA-on-Ollama delivers fast, reliable results.
+Ollama operates as the local runtime, making it easy to download, manage, and run models through a simple CLI or API. This setup allows you to handle both image and text inputs, integrating vision and language understanding in one model. Whether you’re analyzing documents, interpreting photos, or building custom multimodal applications, LLaVA-on-Ollama delivers fast, reliable results.
 
 ![llava](https://llama-2.ai/wp-content/uploads/2023/10/LLaVA-an-open-source-alternatives-to-GPT-4-Vision.png)
 
